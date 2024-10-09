@@ -1,7 +1,8 @@
-## Hi there !
-## I'm Coralie
+**Hi there ! 👋** 
 
-- 👩‍💻 I am a Data Scientist with a special love for SQL and data transformation
+**I'm Coralie**
+
+- 👩‍💻 I'm a Data Scientist with a special love for SQL and data transformation
 - 📫 How to reach me: coralieclot.data@gmail.com
 - 😄 Pronouns: she/her
 - 🧶 Fun fact: My latest craze is making crochet fruit and vegetables
