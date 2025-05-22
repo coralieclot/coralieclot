@@ -2,8 +2,7 @@
 
 **I'm Coralie**
 
-👩‍💻 I'm a Data Scientist with a special love for SQL and data transformation. I currently work as Data Science Teaching Assistant and am loving sharing my knowledge but most importantly learning from the students' perspectives and questions. \
-I am always open to new opportunities, feel free to reach out to me at coralie.clot@gmail.com
+👩‍💻 I'm a Data Analyst with a special love for SQL and data transformation. I currently work as Data Analytics Product Manager @ Dailymotion.
 
 
 <!--
